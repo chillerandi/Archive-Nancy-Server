@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{7CF6DF6D-3B04-46F8-A40B-537D21BCA0B4}") = "Domla.API", "..\Domla.API\Domla.API.shfbproj", "{5340A51F-771D-495E-9222-B2BE54E7EEBD}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5340A51F-771D-495E-9222-B2BE54E7EEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5340A51F-771D-495E-9222-B2BE54E7EEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5340A51F-771D-495E-9222-B2BE54E7EEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5340A51F-771D-495E-9222-B2BE54E7EEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

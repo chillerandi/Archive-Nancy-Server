@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Interfaces", "..\Domla.Interfaces\Domla.Interfaces.csproj", "{8786F124-14BC-4098-B0F7-F04986368CFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Common", "..\Domla.Common\Domla.Common.csproj", "{F257A879-2E6B-456D-A046-819858D09F9E}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "MetaClassCompiler_Mono", "..\MetaClassCompiler\MetaClassCompiler_Mono.fsproj", "{707015A2-1488-42A6-AD4F-62C5DAD434C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		DebugMono|Any CPU = DebugMono|Any CPU
+		ReleaseMono|Any CPU = ReleaseMono|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{707015A2-1488-42A6-AD4F-62C5DAD434C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707015A2-1488-42A6-AD4F-62C5DAD434C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707015A2-1488-42A6-AD4F-62C5DAD434C8}.DebugMono|Any CPU.ActiveCfg = DebugMono|Any CPU
+		{707015A2-1488-42A6-AD4F-62C5DAD434C8}.DebugMono|Any CPU.Build.0 = DebugMono|Any CPU
+		{707015A2-1488-42A6-AD4F-62C5DAD434C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707015A2-1488-42A6-AD4F-62C5DAD434C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707015A2-1488-42A6-AD4F-62C5DAD434C8}.ReleaseMono|Any CPU.ActiveCfg = ReleaseMono|Any CPU
+		{707015A2-1488-42A6-AD4F-62C5DAD434C8}.ReleaseMono|Any CPU.Build.0 = ReleaseMono|Any CPU
+		{8786F124-14BC-4098-B0F7-F04986368CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8786F124-14BC-4098-B0F7-F04986368CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8786F124-14BC-4098-B0F7-F04986368CFF}.DebugMono|Any CPU.ActiveCfg = DebugMono|Any CPU
+		{8786F124-14BC-4098-B0F7-F04986368CFF}.DebugMono|Any CPU.Build.0 = DebugMono|Any CPU
+		{8786F124-14BC-4098-B0F7-F04986368CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8786F124-14BC-4098-B0F7-F04986368CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8786F124-14BC-4098-B0F7-F04986368CFF}.ReleaseMono|Any CPU.ActiveCfg = ReleaseMono|Any CPU
+		{8786F124-14BC-4098-B0F7-F04986368CFF}.ReleaseMono|Any CPU.Build.0 = ReleaseMono|Any CPU
+		{F257A879-2E6B-456D-A046-819858D09F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F257A879-2E6B-456D-A046-819858D09F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F257A879-2E6B-456D-A046-819858D09F9E}.DebugMono|Any CPU.ActiveCfg = DebugMono|Any CPU
+		{F257A879-2E6B-456D-A046-819858D09F9E}.DebugMono|Any CPU.Build.0 = DebugMono|Any CPU
+		{F257A879-2E6B-456D-A046-819858D09F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F257A879-2E6B-456D-A046-819858D09F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F257A879-2E6B-456D-A046-819858D09F9E}.ReleaseMono|Any CPU.ActiveCfg = ReleaseMono|Any CPU
+		{F257A879-2E6B-456D-A046-819858D09F9E}.ReleaseMono|Any CPU.Build.0 = ReleaseMono|Any CPU
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

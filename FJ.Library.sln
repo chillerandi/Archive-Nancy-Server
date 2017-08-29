@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FJ.Interfaces", "..\FJ.Interfaces\FJ.Interfaces.csproj", "{B80ECA3A-0070-4FDA-BA92-6CE65472D780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FJ.Base", "..\FJ.Base\FJ.Base.csproj", "{C5A7D1A2-B799-40F1-89C5-DFFC3615301A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FJ.Common", "..\FJ.Common\FJ.Common.csproj", "{388BFD68-E7F8-4FF9-8822-BE3A57D2B5B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FJ.Testing", "..\FJ.Testing\FJ.Testing.csproj", "{612F30AF-A1AD-4AA3-A287-70E10E5BC4FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{D2808211-4A74-4B89-9051-38CBE80880F6}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B80ECA3A-0070-4FDA-BA92-6CE65472D780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80ECA3A-0070-4FDA-BA92-6CE65472D780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80ECA3A-0070-4FDA-BA92-6CE65472D780}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B80ECA3A-0070-4FDA-BA92-6CE65472D780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80ECA3A-0070-4FDA-BA92-6CE65472D780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80ECA3A-0070-4FDA-BA92-6CE65472D780}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C5A7D1A2-B799-40F1-89C5-DFFC3615301A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A7D1A2-B799-40F1-89C5-DFFC3615301A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A7D1A2-B799-40F1-89C5-DFFC3615301A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A7D1A2-B799-40F1-89C5-DFFC3615301A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388BFD68-E7F8-4FF9-8822-BE3A57D2B5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388BFD68-E7F8-4FF9-8822-BE3A57D2B5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388BFD68-E7F8-4FF9-8822-BE3A57D2B5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388BFD68-E7F8-4FF9-8822-BE3A57D2B5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612F30AF-A1AD-4AA3-A287-70E10E5BC4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612F30AF-A1AD-4AA3-A287-70E10E5BC4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612F30AF-A1AD-4AA3-A287-70E10E5BC4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

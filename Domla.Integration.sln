@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Integration", "..\Domla.Integration\Domla.Integration.csproj", "{EF526553-0509-4C23-B74A-3BAB48D9310A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Diagramming", "..\Diagramming\Crainiate.Diagramming\Domla.Diagramming.csproj", "{8FEEDDA0-185D-4F31-9920-503C014F5526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Diagramming.GUI", "..\Diagramming\Crainiate.Diagramming.Forms\Domla.Diagramming.GUI.csproj", "{86FBCBDA-52FD-4111-99F0-F6EBCC00AB06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Transform.Common", "..\Domla.Transform.Common\Domla.Transform.Common.csproj", "{E0A9DF04-F6A2-4837-AD17-9F42CD98ECAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Transform.Rules", "..\Domla.Transform.Rules\Domla.Transform.Rules.csproj", "{F916E2BA-2388-4D79-81DA-D907E79B234A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Transform.Tests", "..\Domla.Transform.Tests\Domla.Transform.Tests.csproj", "{00081BD6-2AC6-4F9C-928C-8B507B0C900A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Transform.GUI", "..\Domla.Transform.GUI\Domla.Transform.GUI.csproj", "{AD5CCB9B-5376-4033-873E-C24D2D6C1AB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Transform.Debugger", "..\Domla.Transform.Debugger\Domla.Transform.Debugger.csproj", "{72F4443B-0BEB-4561-957D-C2C74343E40D}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF526553-0509-4C23-B74A-3BAB48D9310A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF526553-0509-4C23-B74A-3BAB48D9310A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF526553-0509-4C23-B74A-3BAB48D9310A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF526553-0509-4C23-B74A-3BAB48D9310A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FEEDDA0-185D-4F31-9920-503C014F5526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FEEDDA0-185D-4F31-9920-503C014F5526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FEEDDA0-185D-4F31-9920-503C014F5526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FEEDDA0-185D-4F31-9920-503C014F5526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FBCBDA-52FD-4111-99F0-F6EBCC00AB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FBCBDA-52FD-4111-99F0-F6EBCC00AB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FBCBDA-52FD-4111-99F0-F6EBCC00AB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FBCBDA-52FD-4111-99F0-F6EBCC00AB06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A9DF04-F6A2-4837-AD17-9F42CD98ECAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A9DF04-F6A2-4837-AD17-9F42CD98ECAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A9DF04-F6A2-4837-AD17-9F42CD98ECAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A9DF04-F6A2-4837-AD17-9F42CD98ECAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F916E2BA-2388-4D79-81DA-D907E79B234A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F916E2BA-2388-4D79-81DA-D907E79B234A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F916E2BA-2388-4D79-81DA-D907E79B234A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F916E2BA-2388-4D79-81DA-D907E79B234A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00081BD6-2AC6-4F9C-928C-8B507B0C900A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00081BD6-2AC6-4F9C-928C-8B507B0C900A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00081BD6-2AC6-4F9C-928C-8B507B0C900A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00081BD6-2AC6-4F9C-928C-8B507B0C900A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5CCB9B-5376-4033-873E-C24D2D6C1AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5CCB9B-5376-4033-873E-C24D2D6C1AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5CCB9B-5376-4033-873E-C24D2D6C1AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5CCB9B-5376-4033-873E-C24D2D6C1AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F4443B-0BEB-4561-957D-C2C74343E40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F4443B-0BEB-4561-957D-C2C74343E40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F4443B-0BEB-4561-957D-C2C74343E40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F4443B-0BEB-4561-957D-C2C74343E40D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

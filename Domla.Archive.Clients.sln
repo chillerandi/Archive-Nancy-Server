@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Archive.Client", "..\Domla.Archive.Client\Domla.Archive.Client.csproj", "{DC19D497-E2F4-45A9-8367-A9324F5E8948}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ArchiveCommander", "..\ArchiveCommander\ArchiveCommander.fsproj", "{C2402B68-33F7-4190-A10A-4EF9E13FD267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Archive.Client.WF", "..\Domla.Archive.Client.GUI\Domla.Archive.Client.WF.csproj", "{BF30E15A-8610-463F-8E4F-13DC9B1967CB}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Domla.Archive.Access", "..\Domla.Archive.Access\Domla.Archive.Access.fsproj", "{1F2EEE98-B4AD-48F6-855F-51E7F2C084E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Archive.Nancy", "Domla.Archive.NancyModule\Domla.Archive.Nancy.csproj", "{AFD6195B-F7F7-4643-B3CD-6A1E1DF7ADDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC19D497-E2F4-45A9-8367-A9324F5E8948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC19D497-E2F4-45A9-8367-A9324F5E8948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC19D497-E2F4-45A9-8367-A9324F5E8948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC19D497-E2F4-45A9-8367-A9324F5E8948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2402B68-33F7-4190-A10A-4EF9E13FD267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2402B68-33F7-4190-A10A-4EF9E13FD267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2402B68-33F7-4190-A10A-4EF9E13FD267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2402B68-33F7-4190-A10A-4EF9E13FD267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF30E15A-8610-463F-8E4F-13DC9B1967CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF30E15A-8610-463F-8E4F-13DC9B1967CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF30E15A-8610-463F-8E4F-13DC9B1967CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF30E15A-8610-463F-8E4F-13DC9B1967CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2EEE98-B4AD-48F6-855F-51E7F2C084E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2EEE98-B4AD-48F6-855F-51E7F2C084E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2EEE98-B4AD-48F6-855F-51E7F2C084E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2EEE98-B4AD-48F6-855F-51E7F2C084E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD6195B-F7F7-4643-B3CD-6A1E1DF7ADDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD6195B-F7F7-4643-B3CD-6A1E1DF7ADDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD6195B-F7F7-4643-B3CD-6A1E1DF7ADDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD6195B-F7F7-4643-B3CD-6A1E1DF7ADDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

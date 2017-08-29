@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Models.System", "..\Domla.Models.System\Domla.Models.System.csproj", "{28D6A401-5EF6-4E15-9A56-163E12C71E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Models.Company", "..\Domla.Models.Company\Domla.Models.Company.csproj", "{20BD1090-1E0C-40B3-A11B-9F220D92B2D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domla.Repository", "..\Domla.Repository\Domla.Repository.csproj", "{E7E7B7A9-1581-432F-953B-510655FA48E3}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28D6A401-5EF6-4E15-9A56-163E12C71E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D6A401-5EF6-4E15-9A56-163E12C71E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D6A401-5EF6-4E15-9A56-163E12C71E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D6A401-5EF6-4E15-9A56-163E12C71E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20BD1090-1E0C-40B3-A11B-9F220D92B2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BD1090-1E0C-40B3-A11B-9F220D92B2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BD1090-1E0C-40B3-A11B-9F220D92B2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BD1090-1E0C-40B3-A11B-9F220D92B2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E7B7A9-1581-432F-953B-510655FA48E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E7B7A9-1581-432F-953B-510655FA48E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E7B7A9-1581-432F-953B-510655FA48E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E7B7A9-1581-432F-953B-510655FA48E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

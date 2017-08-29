@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Domla.DomainLayer", "..\Domla.DomainLayer\Domla.DomainLayer.fsproj", "{14A6016B-2CBF-497F-83D4-81DE2588D031}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Domla.000-000.Processes", "..\Domla.000-000.Processes\Domla.000-000.Processes.fsproj", "{62A160FC-C40D-4009-9446-40819D8742DC}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Domla.000-020.Processes", "..\Domla.000-020.Processes\Domla.000-020.Processes.fsproj", "{64C0DF1F-E33A-46E0-84B2-E4FBB979676D}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Domla.000-050.Processes", "..\Domla.000-050.Processes\Domla.000-050.Processes.fsproj", "{EAA04313-1CA2-4E8E-AD21-C59707A9E329}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Domla.000-070.Processes", "..\Domla.000-070.Processes\Domla.000-070.Processes.fsproj", "{CBC06146-DBA5-4199-8771-139780E54C45}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A6016B-2CBF-497F-83D4-81DE2588D031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A6016B-2CBF-497F-83D4-81DE2588D031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A6016B-2CBF-497F-83D4-81DE2588D031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A6016B-2CBF-497F-83D4-81DE2588D031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62A160FC-C40D-4009-9446-40819D8742DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A160FC-C40D-4009-9446-40819D8742DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A160FC-C40D-4009-9446-40819D8742DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A160FC-C40D-4009-9446-40819D8742DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C0DF1F-E33A-46E0-84B2-E4FBB979676D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C0DF1F-E33A-46E0-84B2-E4FBB979676D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C0DF1F-E33A-46E0-84B2-E4FBB979676D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C0DF1F-E33A-46E0-84B2-E4FBB979676D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA04313-1CA2-4E8E-AD21-C59707A9E329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA04313-1CA2-4E8E-AD21-C59707A9E329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA04313-1CA2-4E8E-AD21-C59707A9E329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA04313-1CA2-4E8E-AD21-C59707A9E329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC06146-DBA5-4199-8771-139780E54C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC06146-DBA5-4199-8771-139780E54C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC06146-DBA5-4199-8771-139780E54C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC06146-DBA5-4199-8771-139780E54C45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

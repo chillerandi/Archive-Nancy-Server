@@ -19,7 +19,7 @@ namespace Domla.Archive.Nancy.Modules
 
             Get["/documents"] = parameters =>
             {
-                var documents = Handle.ListDocuments("/");
+                var documents = Handle.ListAllDocuments("/");
                 var result = "[" + string.Join(",", documents.Select(doc => "{\"Name\" : \"" + doc.Name + "\"}")) + "]";
                 var data = Encoding.UTF8.GetBytes(result);
                 return new Response
